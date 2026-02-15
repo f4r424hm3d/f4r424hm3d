@@ -1,3 +1,11 @@
+👋 Hi, I'm Mohd Faraz
+
+💻 Laravel Web Developer
+🚀 Building real-world business applications & automation systems
+
+I love turning complex problems into simple, scalable solutions using Laravel, MySQL, APIs and modern deployment tools.
+Currently exploring Node.js, MongoDB, DevOps & System Design to grow into a full-stack backend engineer.
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Laravel CRM systems, salary & attendance automation, and deploying Laravel apps on VPS with CDN integration.<br><br>👯 I’m looking to collaborate on<br>Laravel, SaaS products, business automation tools, and performance optimization projects.<br><br>🤝 I’m looking for help with<br>Advanced system architecture, scaling Laravel apps, and DevOps best practices.<br><br>🌱 I’m currently learning<br>Node.js, MongoDB, system design, and improving DSA skills.<br><br>💬 Ask me about<br>Laravel, MySQL, APIs, CDN setup (BunnyCDN/jsDelivr), Git issues, and server deployment.<br><br>⚡ Fun fact<br>I love building real business software that solves everyday problems 🚀
 
